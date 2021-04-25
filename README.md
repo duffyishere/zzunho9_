@@ -28,7 +28,7 @@ Daily routine 👨‍💻,🍚,🛌</p>
 
 <h3 align=center>•••</h3>
 <p align=center>
-<a target="_blank" href="https://www.instagram.com/du.__.ffy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+<a href="https://www.instagram.com/du.__.ffy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 <a target="_blank" href="mailto:jamlove4763@gmail.com?subject=Hello%20Junho,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
