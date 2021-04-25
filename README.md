@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=zzun_ho9&fontSize=90)
 
-<h3 align=center>👋Hi there👋</h3>
+<h3 align=center>👋 Hi there 👋</h3>
 <p align=center>I'm Junho, a junior full-stack developer. 🌱<br/>
 Daily routine 👨‍💻,🍚,🛌</p>
 
-<h3 align=center>🛠Tech Stack🛠</h3>
+<h3 align=center>🛠 Tech Stack 🛠</h3>
 
 <p align=center>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
