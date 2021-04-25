@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#4776BF&height=300&section=header&text=zzun_ho9&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=zzun_ho9&fontSize=90)
 
 <h3 align=center>👋 Hi there 👋</h3>
 <p align=center>I'm Junho, a junior full-stack developer. 🌱<br/>
