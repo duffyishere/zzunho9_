@@ -8,6 +8,6 @@ I want to be a person who give new wisdom</p>
 
 <p align=center>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flate&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
