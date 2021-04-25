@@ -2,7 +2,7 @@
 
 <h3 align=center>👋Hi there👋</h3>
 <p align=center>I'm Junho, a junior full-stack developer. 🌱<br/>
-I want to be a person who give new wisdom</p>
+Daily routine 👨‍💻 ➡️ 🛌 ➡️ 👨‍💻</p>
 
 <h3 align=center>🛠Tech Stack🛠</h3>
 
