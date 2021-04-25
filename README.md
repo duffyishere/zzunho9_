@@ -29,6 +29,6 @@ Daily routine 👨‍💻,🍚,🛌</p>
 <h3 align=center>˚˚˚</h3>
 <p align=center>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamlobe4763@gmail.com"(mailto:snugyun01@gmail.com)/>&nbsp
 </p>
 
