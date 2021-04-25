@@ -13,7 +13,8 @@ I want to be a person who give new wisdom</p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=C++&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/>&nbsp
-
+<img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=MariaDB&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/>&nbsp</br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=Docker&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/>&nbsp
 </p>
