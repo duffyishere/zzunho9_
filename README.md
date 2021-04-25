@@ -11,6 +11,6 @@ I want to be a person who give new wisdom</p>
 <img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=flat-square&logo=JavaSript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp</br>
   
-<img src="https://img.shields.io/badge/Python-3766AB?style=flate&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flate&logo=Python&logoColor=white"/>&nbsp 
 </p>
 
