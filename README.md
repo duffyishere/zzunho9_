@@ -27,7 +27,4 @@ I want to be a person who give new wisdom</p>
 </p>
 
 
-<h3 align="center">•••</h3>
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
