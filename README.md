@@ -13,7 +13,7 @@ Daily routine 👨‍💻 → 🍚 → 🛌</p>
 </p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
